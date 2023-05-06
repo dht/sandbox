@@ -1,0 +1,7 @@
+.DS_Store
+.depcheck
+node_modules
+dist
+coverage
+public/park-1.mp3
+public/park-2.mp3
